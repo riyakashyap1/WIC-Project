@@ -22,7 +22,7 @@ Add the previously installed packages as CocoaPods dependencies
 
 `npx pod-install ios`
 
-To Run
+Run
 
 `npx react-native run-ios`
 
