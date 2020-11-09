@@ -1,8 +1,8 @@
 # BR4
 
 ## Teams
+* Frontend: Ana, Clarissa
 * Backend: Dorothy, Riya
 * Fullstack: Sia, Lacey
-* Frontend: Ana, Clarissa
-* Designer: Lacey, Samantha
+* Design: Lacey, Samantha
 * Wildcard: Samantha
