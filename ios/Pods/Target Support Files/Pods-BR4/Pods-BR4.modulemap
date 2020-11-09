@@ -1,0 +1,6 @@
+module Pods_BR4 {
+  umbrella header "Pods-BR4-umbrella.h"
+
+  export *
+  module * { export * }
+}
