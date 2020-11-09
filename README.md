@@ -1,6 +1,6 @@
 # BR4
 
-## Teams
+### Teams
 * Frontend: Ana, Clarissa
 * Backend: Dorothy, Riya
 * Fullstack: Sia, Lacey
