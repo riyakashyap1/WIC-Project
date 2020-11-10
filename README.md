@@ -8,6 +8,14 @@ Make sure you have watchman and node installed.
 
 `brew install watchman`
 
+Installing Xcode
+
+Open the App Store, look for Xcode, and click install. Depending on your internet speed connection, this can take a while because the size of the latest version is 8.1Gb.
+
+Installing an iOS Simulator in Xcode
+
+To install a simulator, open Xcode > Preferences… and select the Components tab. Select a simulator with the corresponding version of iOS you wish to use.
+
 Install CocoaPods
 
 `sudo gem install cocoapods`
