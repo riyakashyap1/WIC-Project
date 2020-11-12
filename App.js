@@ -3,7 +3,11 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
 import Fridge from './src/views/Fridge';
+import FridgeAddItem from './src/views/FridgeAddItem';
 import Profile from './src/views/Profile';
+import Recipes from './src/views/Recipes';
+import Shopping from './src/views/Shopping';
+import Statistics from './src/views/Statistics';
 
 const App = () => {
   const Stack = createStackNavigator();
@@ -16,9 +20,9 @@ const App = () => {
           options={{ title: 'Fridge' }}
         />
         <Stack.Screen
-          name="Profile"
-          component={Profile}
-          options={{ title: 'Profile' }}
+          name="FridgeAddItem"
+          component={FridgeAddItem}
+          options={{ title: 'Add Item' }}
         />
       </Stack.Navigator>
     </NavigationContainer>

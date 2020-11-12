@@ -3,17 +3,12 @@ import {
   StyleSheet,
   View,
   Text,
-  Button,
 } from 'react-native';
 
-const Fridge = ({ navigation }) => {
+const FridgeAddItem = () => {
   return (
     <View style={styles.body}>
-      <Text>Fridge</Text>
-      <Button
-        title="Add Item to Fridge"
-        onPress={() => navigation.navigate('FridgeAddItem')}
-      />
+      <Text>What would you like to add? 🥦</Text>
     </View>
   );
 };
@@ -27,4 +22,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Fridge;
+export default FridgeAddItem;
