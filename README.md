@@ -29,8 +29,6 @@ Run
 
 Taken from here: https://ludwiguer.medium.com/create-a-react-native-app-with-navigation-between-screens-may-2020-41950226cda9
 
-STOPPED AT "Coding, Adding react-navigation"
-
 ### Teams
 * Frontend: Ana, Clarissa
 * Backend: Dorothy, Riya
